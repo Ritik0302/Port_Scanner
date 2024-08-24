@@ -23,7 +23,7 @@ Remaining modules are pre-installed so don't need to install it manually
 
 Clone the Repository: If you haven't already, clone the repository to your local machine:
 ```sh
-git clone https://github.com/yourusername/your-repository.git
+git clone https://github.com/Ritik0302/Port_Scanner.git
 ```
 
 Navigate to the Script Directory:
