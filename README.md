@@ -28,11 +28,11 @@ git clone https://github.com/Ritik0302/Port_Scanner.git
 
 Navigate to the Script Directory:
 ```sh
-cd your-repository
+cd Port_Scanner
 ```
 Run the Script: Execute the script with Python:
 ```sh
-python port_scanner.py
+python3 port_scanner.py
 ```
 Follow the Prompts: The script will prompt you to enter the target IP address or hostname, as well as the range of ports to scan. Example input:
 
