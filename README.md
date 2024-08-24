@@ -1,5 +1,5 @@
 # Port_Scanner
-![Port_Scanner Landing Page](https://github.com/Ritik0302/Wifi-Blaster/blob/main/Wifi_blaster.jpg?raw=true)
+![Port_Scanner Landing Page](https://github.com/Ritik0302/Port_Scanner/blob/main/Screenshot_2024-08-23_21_19_34.jpg?raw=true)
 
 
 **Port_Scanner** is a tool designed for educational purposes. This tool is created to be user-friendly and demonstrates the use of Python dictionaries along with essential modules for network manipulation.
